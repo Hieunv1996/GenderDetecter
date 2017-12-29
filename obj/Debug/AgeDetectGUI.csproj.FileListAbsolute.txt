@@ -1,0 +1,12 @@
+D:\dev\gender_detect\AgeDetectGUI\bin\Debug\AgeDetectGUI.exe.config
+D:\dev\gender_detect\AgeDetectGUI\bin\Debug\AgeDetectGUI.exe
+D:\dev\gender_detect\AgeDetectGUI\bin\Debug\AgeDetectGUI.pdb
+D:\dev\gender_detect\AgeDetectGUI\bin\Debug\DevComponents.DotNetBar2.dll
+D:\dev\gender_detect\AgeDetectGUI\bin\Debug\DevComponents.DotNetBar2.xml
+D:\dev\gender_detect\AgeDetectGUI\obj\Debug\AgeDetectGUI.csprojResolveAssemblyReference.cache
+D:\dev\gender_detect\AgeDetectGUI\obj\Debug\AgeDetectGUI.Form1.resources
+D:\dev\gender_detect\AgeDetectGUI\obj\Debug\AgeDetectGUI.Properties.Resources.resources
+D:\dev\gender_detect\AgeDetectGUI\obj\Debug\AgeDetectGUI.csproj.GenerateResource.Cache
+D:\dev\gender_detect\AgeDetectGUI\obj\Debug\AgeDetectGUI.exe
+D:\dev\gender_detect\AgeDetectGUI\obj\Debug\AgeDetectGUI.pdb
+D:\dev\gender_detect\AgeDetectGUI\obj\Debug\AgeDetectGUI.Form2.resources
