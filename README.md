@@ -23,8 +23,19 @@ https://drive.google.com/drive/folders/0B8N1oYmGLVGWemZQd3JMOEZvdGs
 ### Run
 ```
 
-python guess.py --model_type inception --model_dir .\age_inception\22801\ --filename .\test .jpg
+Example:
 
+python guess.py --class_type gender --model_type inception --model_dir ..\Inception --filename img.jpg --face_detection_model haarcascade_frontalface_default.xml
+
+Result:
+
+Executing on /cpu:0
+selected (fine-tuning) inception model
+..\Inception\checkpoint-14999
+['..\\Result/frontal-face-1.jpg']
+Running file ..\Result/frontal-face-1.jpg
+Running multi-cropped image
+Guess @ 1 M, prob = 0.92
 ```
 
 ### Screenshots
